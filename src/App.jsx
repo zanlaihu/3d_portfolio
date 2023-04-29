@@ -1,7 +1,7 @@
 import { BrowserRouter } from 'react-router-dom'
 
 function App() {
-  return <BrowserRouter></BrowserRouter>
+  return <BrowserRouter>123</BrowserRouter>
 }
 
 export default App
