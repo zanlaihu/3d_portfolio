@@ -1,5 +1,7 @@
+import { BrowserRouter } from 'react-router-dom'
+
 function App() {
-  return <>3d</>
+  return <BrowserRouter></BrowserRouter>
 }
 
 export default App
